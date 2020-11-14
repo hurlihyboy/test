@@ -1,0 +1,22 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "gittest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurlihyboy/test.git"
+  },
+  "author": "atreyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurlihyboy/test/issues"
+  },
+  "homepage": "https://github.com/hurlihyboy/test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
